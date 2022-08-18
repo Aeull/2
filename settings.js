@@ -10,25 +10,25 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6285700980048']
-global.premium = ['62895700121662']
-global.ownernomer = '6285700980048'
-global.ownername = 'IndraXF'
-global.botname = 'ArachuMD'
-global.footer = 'NdraGanz'
+global.owner = ['6287794720840']
+global.premium = ['6287784720840']
+global.ownernomer = '6287784720840'
+global.ownername = 'FiqzCuy'
+global.botname = 'Shikimori'
+global.footer = 'Shiki@MD'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = 'ARACHU-MD\n\nHeheBoy'
-global.author = 'OWNER INDRAXD\n085700980048'
+global.packname = 'SHIKI-MD\n\nHeheBoy'
+global.author = 'OWNER FiqzCuy\n087784720840'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/Rabbids Invasion'
-global.ig = 'https://www.instagram.com/sahrulandptra'
-global.mygc = 'https://chat.whatsapp.com/DCEANCNBcoa5NswW7O6bBF'
-global.myweb = 'https://github.com/IndraaXD'
-global.email = 'bagusart_40@gmail.com'
+global.youtube = 'https://youtube.com/c/'
+global.ig = 'https://www.instagram.com/'
+global.mygc = 'https://chat.whatsapp.com/'
+global.myweb = 'https://github.com/'
+global.email = 'ranzedtz@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
